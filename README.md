@@ -8,3 +8,6 @@ Implementation collateral and sign-off metrics for PicoRV32 on SkyWater 130nm (s
 - TNS: 0.00 ns
 - Power: 10.6 mW
 - DRC: 0 violations
+
+## Final Layout Visualization
+![PicoRV32 Routed Layout](images/picorv32_routed.png)
